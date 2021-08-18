@@ -1,0 +1,4 @@
+INSTA_LOGIN = ''
+INSTA_PASS = ''
+PASS = ''
+TARGETS = []
